@@ -25,4 +25,4 @@ def pantalla():
 
 if __name__ == '__main__':
     app.debug = True
-    app.run(host='localhost', port=5001)
+    app.run(host='192.168.100.10', port=5001)
